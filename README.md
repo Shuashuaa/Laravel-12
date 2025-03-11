@@ -1,3 +1,7 @@
+### initialize the app
+```
+.env
+```
 ### install node & composer dependencies
 ```
 npm i && composer install
